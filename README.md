@@ -71,3 +71,9 @@ python src/process_transactions.py --input data/transactions_50k.jsonl --output 
 - La agregación se realiza por día (YYYY-MM-DD) y BIN.
 - El script es idempotente: al ejecutarse varias veces sobre los mismos datos produce el mismo resultado.
 - Si el archivo de salida ya existe, será reemplazado.
+
+## Elaborado por
+**Juan Pablo Avalos Suárez**  
+Ingeniero de Datos  
+📧 juanpabloavalossuarez@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/juanpabloavalos/)
